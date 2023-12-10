@@ -1,0 +1,17 @@
+D:\WebDevelpment\BackEnd\Vezeeta Website\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+D:\WebDevelpment\BackEnd\Vezeeta Website\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.runtimeconfig.json
+D:\WebDevelpment\BackEnd\Vezeeta Website\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+D:\WebDevelpment\BackEnd\Vezeeta Website\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\WebDevelpment\BackEnd\Vezeeta Website\RepositoryLayer\bin\Debug\net6.0\DomainLayer.dll
+D:\WebDevelpment\BackEnd\Vezeeta Website\RepositoryLayer\bin\Debug\net6.0\DomainLayer.pdb
+D:\WebDevelpment\BackEnd\Vezeeta Website\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+D:\WebDevelpment\BackEnd\Vezeeta Website\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebDevelpment\BackEnd\Vezeeta Website\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+D:\WebDevelpment\BackEnd\Vezeeta Website\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+D:\WebDevelpment\BackEnd\Vezeeta Website\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\WebDevelpment\BackEnd\Vezeeta Website\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CopyComplete
+D:\WebDevelpment\BackEnd\Vezeeta Website\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+D:\WebDevelpment\BackEnd\Vezeeta Website\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+D:\WebDevelpment\BackEnd\Vezeeta Website\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+D:\WebDevelpment\BackEnd\Vezeeta Website\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.genruntimeconfig.cache
+D:\WebDevelpment\BackEnd\Vezeeta Website\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
